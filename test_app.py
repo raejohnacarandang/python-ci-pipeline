@@ -1,6 +1,6 @@
 # test_app.py
 
-import pytest
+import pytest # noqa: F401
 from app import add, subtract
 
 
